@@ -1,0 +1,161 @@
+{
+  "addProductTitle": "Add Product",
+  "selectCategory": "Select product category",
+  "selectCategoryNote": "Start by selecting the main category then subcategory for precise classification.",
+  "productNameLabel": "Product Name",
+  "productNameHint": "Example: Samsung A54...",
+  "enterProductNameError": "Please enter product name",
+  "productDescriptionLabel": "Description",
+  "productDescriptionHint": "Write a clear description of your product...",
+  "enterDescriptionError": "Please enter product description",
+  "priceLabel": "Price",
+  "priceHint": "Example: 150",
+  "enterPriceError": "Enter price",
+  "currencySYP": "SYP",
+  "currencyUSD": "USD",
+  "currencyTRY": "TRY",
+  "currencyEUR": "EUR",
+  "selectGovernmentLabel": "Select government",
+  "selectGovernmentError": "Please select government",
+  "productImagesTitle": "Product Images",
+  "noImagesText": "No images added",
+  "addImagesButton": "Add Images",
+  "saveProductButton": "Save Product",
+  "loginTitle": "Login",
+  "emailLabel": "Google Email",
+  "passwordLabel": "Password",
+  "rememberMe": "Remember Me",
+  "loginButton": "Login",
+  "orText": "Or",
+  "guestLogin": "Guest Login",
+  "supportText": "For any issue contact us",
+  "loginSuccessTitle": "Success",
+  "loginSuccessMessage": "Welcome",
+  "loginErrorTitle": "Error",
+  "loginErrorMessage": "Incorrect information",
+  "noAccountText": "Don't have an account?",
+  "createAccountText": "Create Account",
+  "otpTitle": "Verification",
+  "otpSentToEmail": "We sent the verification code to email:",
+  "changeAccount": "Change account  <--",
+  "otpSuccessTitle": "Success",
+  "otpSuccessMessage": "Verification successful",
+  "otpErrorTitle": "Error",
+  "otpErrorMessage": "Invalid verification code",
+  "otpExpiresIn": "Expires in: ",
+  "otpResend": "Didn't receive the code? Resend",
+  "otpSendSuccess": "New code sent",
+  "otpSendError": "An error occurred",
+  "policyTitle": "App Usage Policy",
+  "policySubTitle": "Souq Sham Store",
+  "privacyIntro": "We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and share your information when using the app.",
+  "infoCollection": "Information Collection:",
+  "infoCollectionDetail": "We collect the following information when you use the app:\n• Full name\n• Email and phone number\n• Payment information\n• Order history and preferences",
+  "infoUsage": "Information Usage:",
+  "infoUsageDetail": "The information we collect is used for the following purposes:\n• Processing orders and shipping\n• Improving your in-app experience\n• Sending promotional offers and marketing content\n• Providing technical support and customer service",
+  "infoSharing": "Information Sharing:",
+  "infoSharingDetail": "We do not share your personal information with third parties except in the following cases:\n• With shipping companies to process orders\n• When required by law or legal obligations\n• For analytics and statistics in an anonymized manner",
+  "dataSecurity": "Data Security:",
+  "dataSecurityDetail": "We follow best practices to protect your personal data and use encryption and secure storage to ensure its safety.",
+  "userRights": "User Rights:",
+  "userRightsDetail": "You have the right to access, modify, or delete your data, and you can contact us for any privacy-related inquiries.",
+  "privacyUpdates": "Privacy Policy Updates:",
+  "privacyUpdatesDetail": "We may update the privacy policy from time to time. Changes will be posted in the app, and users should review them periodically.",
+  "acceptPolicy": "I agree to the privacy policy",
+  "continueBtn": "Continue",
+  "acceptPolicyError": "You must accept the privacy policy to proceed",
+  "errorTitle": "Error",
+  "registerTitle": "Create Account",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "phone": "Mobile Number",
+  "government": "Governorate",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "registerBtn": "Register",
+  "successTitle": "Done",
+  "successMessageRegister": "Registered successfully",
+  "loginPrompt": "Already have an account?",
+  "loginBtn": "Login",
+  "contactSupport": "For any issues contact us",
+  "error": "Error",
+  "success": "Success",
+  "allFieldsRequired": "All fields are required",
+  "selectAtLeastOneImage": "Please select at least one image",
+  "productCreated": "Product created successfully",
+  "productCreationFailed": "Failed to create product",
+  "yourCarts": "Your Carts",
+  "noCartsAvailable": "No carts available",
+  "loading": "Loading...",
+  "marketplace": "Marketplace",
+  "noProducts": "No Products",
+
+  "productDetails": "Product Details",
+  "addToCart": "Add To Cart",
+  "failedLoadProduct": "Failed to load product",
+  "chooseQuantity": "Choose Quantity",
+  "productAddedToCart": "Product added to cart",
+  "confirmAddToCart": "Confirm Add To Cart",
+  "main": "Main",
+  "home": "Home"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

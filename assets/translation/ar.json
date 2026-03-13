@@ -1,0 +1,271 @@
+{
+  "addProductTitle": "إضافة منتج",
+  "selectCategory": "اختر تصنيف منتجك",
+  "selectCategoryNote": "ابدأ باختيار التصنيف الرئيسي ثم الفرعي للوصول لأدق تصنيف.",
+  "productNameLabel": "اسم المنتج",
+  "productNameHint": "مثال: هاتف سامسونغ A54...",
+  "enterProductNameError": "الرجاء إدخال اسم المنتج",
+  "productDescriptionLabel": "الوصف",
+  "productDescriptionHint": "اكتب وصفًا واضحًا لمنتجك...",
+  "enterDescriptionError": "الرجاء إدخال وصف للمنتج",
+  "priceLabel": "السعر",
+  "priceHint": "مثال: 150",
+  "enterPriceError": "أدخل السعر",
+  "currencySYP": "ل.س",
+  "currencyUSD": "دولار",
+  "currencyTRY": "ل.تركية",
+  "currencyEUR": "يورو",
+  "selectGovernmentLabel": "اختر المحافظة",
+  "selectGovernmentError": "يرجى اختيار المحافظة",
+  "productImagesTitle": "صور المنتج",
+  "noImagesText": "لم يتم إضافة صور",
+  "addImagesButton": "إضافة صور",
+  "saveProductButton": "حفظ المنتج",
+  "loginTitle": "تسجيل الدخول",
+  "emailLabel": "إيميل غوغل",
+  "passwordLabel": "كلمة المرور",
+  "rememberMe": "تذكرني",
+  "loginButton": "تسجيل دخول",
+  "orText": "أو",
+  "guestLogin": "دخول كزائر",
+  "supportText": "لأي مشكلة تواصل معنا",
+  "loginSuccessTitle": "تم",
+  "loginSuccessMessage": "ََ أهلا و سهلا",
+  "loginErrorTitle": "خطأ",
+  "loginErrorMessage": "معلومات خاطئة",
+  "noAccountText": "ليس لديك حساب؟",
+  "createAccountText": "إنشاء حساب",
+  "otpTitle": "التحقق",
+  "otpSentToEmail": "لقد أرسلنا رمز التحقق إلى البريد:",
+  "changeAccount": "تغيير حسابي  <--",
+  "otpSuccessTitle": "تم",
+  "otpSuccessMessage": "تم التحقق بنجاح",
+  "otpErrorTitle": "خطأ",
+  "otpErrorMessage": "رمز التحقق غير صحيح",
+  "otpExpiresIn": "ينتهي خلال: ",
+  "otpResend": "لم يصلك الرمز؟ إعادة الإرسال",
+  "otpSendSuccess": "تم إرسال رمز جديد",
+  "otpSendError": "هناك خطأ",
+
+  "policyTitle": "سياسة استخدام تطبيق",
+  "policySubTitle": "لمتجر سوق شام",
+  "privacyIntro": "نحن في متجرنا الإلكتروني نحترم خصوصيتك ونلتزم بحماية بياناتك الشخصية. توضح سياسة الخصوصية هذه كيفية جمع واستخدام ومشاركة معلوماتك عند استخدام التطبيق.",
+  "infoCollection": "جمع المعلومات:",
+  "infoCollectionDetail": "نقوم بجمع المعلومات التالية عند استخدامك للتطبيق:\n• الاسم الكامل\n• البريد الإلكتروني ورقم الهاتف\n• معلومات الدفع\n• سجل الطلبات والتفضيلات",
+  "infoUsage": "استخدام المعلومات:",
+  "infoUsageDetail": "تُستخدم المعلومات التي نجمعها للأغراض التالية:\n• معالجة الطلبات والشحن\n• تحسين تجربتك داخل التطبيق\n• إرسال العروض الترويجية والمحتوى التسويقي\n• توفير الدعم الفني وخدمة العملاء",
+  "infoSharing": "مشاركة المعلومات:",
+  "infoSharingDetail": "لا نشارك معلوماتك الشخصية مع أطراف ثالثة إلا في الحالات التالية:\n• مع شركات الشحن لمعالجة الطلبات\n• إذا تطلب القانون أو الالتزام القانوني\n• ضمن التحليلات والإحصاءات بشكل مجهول",
+  "dataSecurity": "أمن البيانات:",
+  "dataSecurityDetail": "نلتزم باتباع أفضل الممارسات لحماية بياناتك الشخصية، ونستخدم تقنيات التشفير والتخزين الآمن لضمان سلامتها.",
+  "userRights": "حقوق المستخدم:",
+  "userRightsDetail": "يحق لك طلب الوصول إلى بياناتك، تعديلها أو حذفها، ويمكنك التواصل معنا لأي استفسارات تتعلق بخصوصيتك.",
+  "privacyUpdates": "تعديلات سياسة الخصوصية:",
+  "privacyUpdatesDetail": "قد نقوم بتحديث سياسة الخصوصية من وقت لآخر. سيتم نشر التغييرات داخل التطبيق، ويجب على المستخدم مراجعتها بشكل دوري.",
+  "acceptPolicy": "أوافق على سياسة الخصوصية",
+  "continueBtn": "استمرار",
+  "acceptPolicyError": "يجب الموافقة على سياسة الخصوصية للمتابعة",
+  "errorTitle": "خطأ",
+
+  "registerTitle": "إنشاء حساب",
+  "firstName": "الاسم الأول",
+  "lastName": "الاسم الثاني",
+  "email": "إيميل غوغل",
+  "phone": "رقم الموبايل",
+  "government": "المحافظة",
+
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "registerBtn": "تسجيل حساب",
+  "successTitle": "تم",
+  "successMessageRegister": "تم التسجيل بنجاح",
+
+  "loginPrompt": "لديك حساب؟",
+  "loginBtn": "تسجيل دخول",
+  "contactSupport": "لأي مشكلة تواصل معنا",
+
+  "commentsTitle": "التعليقات",
+  "noComments": "لا توجد تعليقات بعد",
+  "firstCommentPrompt": "كن أول من يعلق على هذا المنتج!",
+  "addCommentHint": "أضف تعليقك...",
+
+  "repliesTitle": "الردود",
+  "noReplies": "لا توجد ردود بعد",
+  "firstReplyPrompt": "كن أول من يرد على هذا التعليق!",
+  "addReplyHint": "اكتب ردك...",
+  "dashboardHome": "الرئيسية",
+  "dashboardFavorite": "المفضلة",
+  "dashboardAdd": "إضافة",
+  "dashboardMessages": "الرسائل",
+  "dashboardNotification": "الإشعارات",
+  "favoriteTitle": "المفضلة",
+  "favoriteNoProducts": "لا يوجد منتجات في المفضلة",
+  "favoriteProductNoName": "بدون اسم",
+  "favoriteProductNoProvince": "غير محدد",
+  "favoriteProductNoOwner": "غير معروف",
+
+  "homeSearchHint": "ابحث ...",
+  "homeUnknownLocation": "غير معروف",
+
+
+  "welcome": "مرحباً بك في سوق شام!",
+  "checkInternet": "تأكد من أنك متصل بالانترنت",
+  "retry": "ثم أعد المحاولة",
+  "retryButton": "إعادة المحاولة",
+  "location": "الموقع",
+  "owner": "المالك",
+  "addedDate": "تاريخ الإضافة",
+  "description": "الوصف",
+  "call": "اتصال",
+  "whatsapp": "رسالة",
+  "viewComments": "عرض التعليقات",
+  "now": "الآن",
+  "minuteAgo": "قبل دقيقة",
+  "minutesAgo": "قبل {} دقائق",
+  "hourAgo": "قبل ساعة",
+  "hoursAgo": "قبل {} ساعات",
+  "yesterday": "أمس",
+  "daysAgo": "قبل {} أيام",
+  "tomorrow": "غداً",
+  "inMoments": "بعد لحظات",
+  "inMinutes": "بعد {} دقيقة",
+  "inHours": "بعد {} ساعة",
+
+  "enterEmail": "الرجاء ادخال بريد الكتروني",
+  "enterValidEmail": "الرجاء ادخال بريد الكتروني صحيح",
+  "enterPassword": "الرجاء ادخال كلمة المرور",
+  "passwordMinLength": "كلمة مرور من 8 محارف على الأقل",
+  "passwordMaxLength": "كلمة مرور من 15 محرف على الأكثر",
+  "passwordMismatch": "كلمة المرور غير متطابقة",
+  "enterName": "الرجاء ادخال الاسم",
+  "enterLastName": "الرجاء ادخال الكنية",
+  "enterFatherName": "الرجاء ادخال اسم الأب",
+  "enterPhone": "الرجاء ادخال رقم الموبايل",
+  "invalidPhone": "رقم الهاتف غير صحيح",
+  "enterCode": "الرجاء ادخال كود التفعيل",
+  "enterNumber": "الرجاء ادخال رقم",
+  "selectRegion": "الرجاء اختيار منطقة",
+
+
+  "chooseProductCategory": "اختر تصنيف منتجك",
+  "chooseProductCategoryDesc": "ابدأ باختيار التصنيف الرئيسي ثم الفرعي للوصول لأدق تصنيف.",
+  "productName": "اسم المنتج",
+
+  "errorProductName": "الرجاء إدخال اسم المنتج",
+
+  "productDescription": "الوصف",
+
+  "errorProductDescription": "الرجاء إدخال وصف للمنتج",
+
+  "productPrice": "السعر",
+  "productPriceHint": "مثال: 150",
+  "errorProductPrice": "أدخل السعر",
+
+
+
+  "selectGovernment": "اختر المحافظة",
+  "errorGovernment": "يرجى اختيار المحافظة",
+
+  "productImages": "صور المنتج",
+  "noImages": "لم يتم إضافة صور",
+  "addImages": "إضافة صور",
+
+  "saveProduct": "حفظ المنتج",
+  "viewReplies": "عرض الردود",
+  "loginRequired": "تسجيل الدخول مطلوب",
+  "loginRequiredDesc": "يرجى تسجيل الدخول أو إنشاء حساب جديد للمتابعة",
+  "login": "تسجيل الدخول",
+  "createAccount": "إنشاء حساب",
+  "cancel": "إلغاء",
+
+
+  "language": "اللغة",
+  "darkMode": "الوضع الداكن",
+  "settings": "الإعدادات",
+  "edit": "تعديل",
+  "delete" :"حذف",
+  "unfollow" : "إلغاء متابعة",
+  "follow" : "متابعة",
+  "error": "خطأ",
+  "success": "نجاح",
+  "allFieldsRequired": "جميع الحقول مطلوبة",
+  "selectAtLeastOneImage": "يرجى اختيار صورة واحدة على الأقل",
+  "productCreated": "تم إنشاء المنتج بنجاح",
+  "productCreationFailed": "فشل إنشاء المنتج",
+
+  "yourCarts": "سلاتك",
+  "noCartsAvailable": "لا توجد سلات متاحة",
+  "loading": "جارٍ التحميل...",
+
+
+  "marketplace": "السوق",
+  "noProducts": "لا توجد منتجات",
+
+  "productDetails": "تفاصيل المنتج",
+  "addToCart": "أضف إلى السلة",
+  "failedLoadProduct": "فشل تحميل المنتج",
+  "chooseQuantity": "اختر الكمية",
+  "productAddedToCart": "تمت إضافة المنتج إلى السلة",
+  "confirmAddToCart": "تأكيد الإضافة إلى السلة",
+  "main": "الرئيسية",
+  "home": "الرئيسية"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
